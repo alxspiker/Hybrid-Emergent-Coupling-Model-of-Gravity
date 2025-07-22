@@ -101,7 +101,7 @@ Verdict: A concrete, falsifiable prediction awaiting more sensitive detectors.
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/YOUR_USERNAME/Theory-of-Everything/issues) if you want to contribute. (Note: You will need to replace `YOUR_USERNAME` with your actual GitHub username).
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/alxspiker/Theory-of-Everything/issues) if you want to contribute.
 
 ## License
 
